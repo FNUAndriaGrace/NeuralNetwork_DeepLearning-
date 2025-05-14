@@ -1,0 +1,79 @@
+﻿Differences between Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL)
+
+
+Artificial Intelligence (AI)
+
+
+AIis a intelligent machine that works and reacts like humans. AI systems use detailed algorithms to perform computing tasks much faster and more efficiently than human minds. 
+
+
+Since the introduction of big data, AI systems now have access to, and can also process, extremely large amounts of data very quickly and come to an effective conclusion. As a result, AI is making big strides in research and development and is considered one of the most promising technologies on the horizon to enable an entirely new way of using computers to solve real-world problems.
+
+
+In short,
+* A program that can sense, reason, act and adapt
+* It is the broad concept of creating machines that can mimic human intelligence
+* The overarching concept of intelligent machines, encompassing various techniques to achieve human-like intelligence
+
+
+Machine Learning (ML)
+
+
+Machine learning is a subset of Artificial Intelligence, on the contrary to traditional programming, machine learning doesn’t require hand-coding software routines with a specific set of instructions to accomplish a particular task. In fact, many machine learning algorithms are rather simple to implement in terms of code complexity. The interesting thing about machine learning algorithms is that they use data to “train” the machine how to perform the task, instead of coding the task.
+
+
+Machine learning is the ability of machines to automate a learning process. The input of this learning process is data and the output is a model. Through machine learning, a system can perform a learning function with the data it ingests and thus it becomes progressively better at said function. This “learning” is possible through the use of examples to improve some aspects of performance. The data is considered as a set of training examples. The algorithms parse data, then use the individual training examples to see how well they can answer the question related to their goal. That answer is then analyzed and used to improve the algorithm’s capability to give better answers. This process is repeated for each example. That way each training example contributes a little bit to the algorithm’s accuracy or predictive power. If the learning process works, we say that the learning algorithm generalizes meaning that its predictions are useful beyond the training examples.
+
+
+In short,
+* Algorithms whose performance improves as they are exposed to more data over time
+* A specific approach within AI where systems learn from data to improve their performance over time without explicit programming
+* It tests and trains the data 
+
+
+Deep Learning (DL)
+Deep learning is a subsection of machine learning (and thus artificial intelligence) that trains models from artificial neural networks (ANN). The “deep” learning aspect of “deep learning” refers to the numerous layers or segments in the “network” part of “neural networks.” Deep learning has historically played critical roles in developing highly automated systems such as in self-driving cars and natural language recognition and understanding. 
+Deep learning is fundamental to developing various projects, such as self-driving cars, image recognition, and most notably in recent years, Large Language Models (LLMS). The relationship between LLMs and deep learning is rooted in the underlying infrastructure for the Neural Networks. 
+In short,
+* Subset of machine learning in which multilayered neural networks learn from vast amounts of data.
+* That uses complex neural networks with multiple layers to analyze data, making it particularly powerful for complex tasks like image recognition and natural language processing
+* Utilizes artificial neural networks with multiple layers to learn complex patterns from large datasets.
+
+
+How they relate: 
+ 
+AI is the umbrella term:
+It encompasses all methods to create intelligent machines, including Machine Learning and Deep Learning.
+Machine Learning is a subset of AI:
+It uses algorithms to learn from data, which is a key aspect of achieving artificial intelligence.
+Deep Learning is a subset of Machine Learning:
+It leverages complex neural networks to achieve even more advanced learning capabilities. 
+ 
+Future of Deep Learning: 
+ 
+Increased application areas:
+Deep learning is expected to be applied to a wider range of fields, including personalized medicine, advanced robotics, and natural language understanding. 
+ 
+Improved accuracy and efficiency:
+Continued research will lead to more accurate and efficient deep learning models, allowing them to handle more complex tasks. 
+ 
+Integration with other technologies:
+Deep learning is likely to be combined with other technologies like computer vision and sensor data analysis to create even more powerful systems. 
+ 
+Ethical considerations:
+As deep learning becomes more advanced, there will be a growing need to address ethical concerns related to bias, privacy, and transparency
+
+
+How is Deep Learning Beneficial in the Future?
+
+
+Self-learning or ubiquitous deep learning: As of now, most robots still require human assistance to learn new situations and reactions. But deep learning can help in designing models via which robots can learn themselves. This would help various businesses that are not experts in AI but still can take advantage of self-learning bots to reduce the number of human errors and increase the speed of transactions.
+
+
+Deep learning for cybersecurity: Security incidents have also risen parallelly with advancements in technology. The list of attacks is pretty long with some famous ones like WannaCry, Capital One breach, NotPetya. It has become a necessity for businesses to act fast and proactive to prevent losses from these. More Cyberdefense agencies would subscribe to deep machine learning algorithms to respond faster than humans and detect patches in IT Infrastructure to Reduce the Impact of attacks.
+
+
+Automation of repetitive tasks: When did you visit the car garage last time? Did you try to observe several mundane tasks that could have been automated? Deep-learning robots mounted with deep learning abilities can complete tasks with input received from different AI sources and sensors. Like the way humans act based on the environment and experiences, robots can also act according to data sets containing previous examples and input data from sensors.
+
+
+Deep learning to enhance customer experience: Deep learning is used to create a useful application to improve your business experience. One common example which you find in almost all consumer-centric websites is Chatbot. Chatbots uses deep learning to analyze customer text and generates responses accordingly. Other examples are image captions (The complexity of image captions reduces if you cannot identify one after each attempt).
